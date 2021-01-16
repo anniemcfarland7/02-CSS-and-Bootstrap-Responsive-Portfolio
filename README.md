@@ -14,4 +14,4 @@ Repository URL: https://github.com/anniemcfarland7/Annie-McFarland-Portfolio
 
 The following image shows the web application's initial appearance:
 
-![Web Screenshot](./assets/screenshot.png)
+![Web Screenshot](./assets/images/screenshot.png)
