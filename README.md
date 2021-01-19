@@ -1,7 +1,6 @@
 # Annie McFarland Portfolio
 
 ## Description 
-[Link to Screenshot](#screenshot)
 
 This repository contains my personal mobile responsive portfolio using Bootstrap CSS Framework.
 
